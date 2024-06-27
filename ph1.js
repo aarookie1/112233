@@ -12,4 +12,3 @@ document.writeln("alt=\"Web Analytics Made Easy - Statcounter\"");
 document.writeln("referrerPolicy=\"no-referrer-when-downgrade\"></a></div></noscript>");
 document.writeln("<!-- End of Statcounter Code -->");
 document.writeln(""); 
-window.location.href="https://gog57.gmbet888.com";
