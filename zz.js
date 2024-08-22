@@ -1,1 +1,1 @@
-window.location.href="https://id.infoall.com";
+window.location.href="https://id.infoall.ai";
