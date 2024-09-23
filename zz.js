@@ -1,5 +1,4 @@
 (function() {
-    // Load Clicky script
     var script = document.createElement('script');
     script.async = true;
     script.src = '//static.getclicky.com/js';
