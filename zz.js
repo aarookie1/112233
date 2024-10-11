@@ -10,7 +10,7 @@
     function redirect() {
         clearTimeout(timeout);
         script.onload = null;
-        window.location.href = "https://slotsrp.pages.dev/";
+        window.location.href = "https://jump.slotjuara.com/";
     }
 
     script.onload = redirect;
