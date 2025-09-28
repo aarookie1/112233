@@ -10,7 +10,7 @@
     function redirect() {
         clearTimeout(timeout);
         script.onload = null;
-        window.location.href = "https://play.googleplayid.org/store/apps/details?id=com.slotsrp.rptl119";
+        window.location.href = "https://www.richaabbcc.com";
     }
 
     script.onload = redirect;
